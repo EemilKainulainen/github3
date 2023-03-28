@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Tässä on kuva TAI:n logosta</h1>
+            <p>Hieno kuva on</p>
+        <img src="TAI2.png" alt="TAI logo">
+        <br>
+        <a href="https://www.turkuai.fi/">https://www.turkuai.fi/</a>
+    </body>
+</html>
